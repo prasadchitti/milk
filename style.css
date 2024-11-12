@@ -15,7 +15,7 @@
 }
 
 #calendar input {
-    width: 50%;
+    width: 80%;
     box-sizing: border-box; /* Ensures input width includes padding and border */
     padding: 5px;
     border: 1px solid #ccc;
