@@ -1,7 +1,7 @@
 #calendar {
     display: grid;
     grid-template-columns: repeat(7, 1fr);
-    gap: 5px;
+    gap: 0px;
 	border: 10px solid #ccc;
 	border-style:groove;
 	border-radius: 20px;
@@ -29,4 +29,16 @@
 .btn-primary {
     background-color: #0d6efd;
     border-color: #0d6efd;
+}
+#month-selector {
+  /* General styling */
+  width: 130px;
+  padding: 5px;
+  background-color: #007cb7e3;
+  border-color: #007cb7e3;
+  border-radius: 5px;
+  font-size: 14px;
+  color:#fff;
+
+
 }
